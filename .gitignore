@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# single runs from simp_solver.py
+to_result*.png
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
